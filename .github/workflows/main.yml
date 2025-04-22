@@ -75,6 +75,7 @@ jobs:
           local-dir: ./output/
           server-dir: /htdocs/
           exclude: |
+            **/data/**
             **/ipv4/**
             **/ipv6/**
             **/log/**
