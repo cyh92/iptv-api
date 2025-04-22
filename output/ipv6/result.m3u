@@ -1,165 +1,35 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1HD.png" group-title="📺央视频道",CCTV-1HD
+#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="📺央视频道",CCTV-1 综合
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-name="CCTV2HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2HD.png" group-title="📺央视频道",CCTV-2HD
+#EXTINF:-1 tvg-name="CCTV2 财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2 财经.png" group-title="📺央视频道",CCTV-2 财经
 http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-#EXTINF:-1 tvg-name="CCTV3HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3HD.png" group-title="📺央视频道",CCTV-3HD
+#EXTINF:-1 tvg-name="CCTV3 综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3 综艺.png" group-title="📺央视频道",CCTV-3 综艺
 http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-name="CCTV4HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4HD.png" group-title="📺央视频道",CCTV-4HD
+#EXTINF:-1 tvg-name="CCTV4 中文国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4 中文国际.png" group-title="📺央视频道",CCTV-4 中文国际
 http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-#EXTINF:-1 tvg-name="CCTV5HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5HD.png" group-title="📺央视频道",CCTV-5HD
+#EXTINF:-1 tvg-name="CCTV5 体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5 体育.png" group-title="📺央视频道",CCTV-5 体育
 http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1 tvg-name="CCTV6HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6HD.png" group-title="📺央视频道",CCTV-6HD
+#EXTINF:-1 tvg-name="CCTV6 电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6 电影.png" group-title="📺央视频道",CCTV-6 电影
 http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-name="CCTV7HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7HD.png" group-title="📺央视频道",CCTV-7HD
+#EXTINF:-1 tvg-name="CCTV7 国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7 国防军事.png" group-title="📺央视频道",CCTV-7 国防军事
 http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-#EXTINF:-1 tvg-name="CCTV8HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8HD.png" group-title="📺央视频道",CCTV-8HD
+#EXTINF:-1 tvg-name="CCTV8 电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8 电视剧.png" group-title="📺央视频道",CCTV-8 电视剧
 http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-name="CCTV9HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9HD.png" group-title="📺央视频道",CCTV-9HD
+#EXTINF:-1 tvg-name="CCTV9 纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9 纪录.png" group-title="📺央视频道",CCTV-9 纪录
 http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1 tvg-name="CCTV10HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10HD.png" group-title="📺央视频道",CCTV-10HD
+#EXTINF:-1 tvg-name="CCTV10 科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10 科教.png" group-title="📺央视频道",CCTV-10 科教
 http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-#EXTINF:-1 tvg-name="CCTV11HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11HD.png" group-title="📺央视频道",CCTV-11HD
+#EXTINF:-1 tvg-name="CCTV11 戏曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11 戏曲.png" group-title="📺央视频道",CCTV-11 戏曲
 http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
-#EXTINF:-1 tvg-name="CCTV12HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12HD.png" group-title="📺央视频道",CCTV-12HD
+#EXTINF:-1 tvg-name="CCTV12 社会与法" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12 社会与法.png" group-title="📺央视频道",CCTV-12 社会与法
 http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1 tvg-name="CCTV13HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13HD.png" group-title="📺央视频道",CCTV-13HD
+#EXTINF:-1 tvg-name="CCTV13 新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13 新闻.png" group-title="📺央视频道",CCTV-13 新闻
 http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-#EXTINF:-1 tvg-name="CCTV14HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14HD.png" group-title="📺央视频道",CCTV-14HD
+#EXTINF:-1 tvg-name="CCTV14 少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14 少儿.png" group-title="📺央视频道",CCTV-14 少儿
 http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
-http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
-http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
-http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
-http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
-http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
-http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
-http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
-http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
-http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
-http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
-http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
-http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
-http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV1
-http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV2
-http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV3
-http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV4
-http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV5
-http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV6
-http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV7
-http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV8
-http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV9
-http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV10
-http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV11
-http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV12
-http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV13
-http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV14
-http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1 tvg-name="港台电视33" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/港台电视33.png" group-title="🈳无结果频道",港台电视33
-url
 #EXTINF:-1 tvg-name="CCTV1香港版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1香港版.png" group-title="🈳无结果频道",CCTV-1香港版
 url
-#EXTINF:-1 tvg-name="CCTV1_综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1_综合.png" group-title="🈳无结果频道",CCTV-1_综合
-url
-#EXTINF:-1 tvg-name="CCTV2_财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2_财经.png" group-title="🈳无结果频道",CCTV-2_财经
-url
-#EXTINF:-1 tvg-name="CCTV3_综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3_综艺.png" group-title="🈳无结果频道",CCTV-3_综艺
-url
-#EXTINF:-1 tvg-name="CCTV4_中文国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4_中文国际.png" group-title="🈳无结果频道",CCTV-4_中文国际
-url
-#EXTINF:-1 tvg-name="CCTV5_体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5_体育.png" group-title="🈳无结果频道",CCTV-5_体育
-url
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🈳无结果频道",CCTV-5+_体育赛事
-url
-#EXTINF:-1 tvg-name="CCTV6_电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6_电影.png" group-title="🈳无结果频道",CCTV-6_电影
-url
-#EXTINF:-1 tvg-name="CCTV7_国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7_国防军事.png" group-title="🈳无结果频道",CCTV-7_国防军事
-url
-#EXTINF:-1 tvg-name="CCTV8_电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8_电视剧.png" group-title="🈳无结果频道",CCTV-8_电视剧
-url
-#EXTINF:-1 tvg-name="CCTV9_纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9_纪录.png" group-title="🈳无结果频道",CCTV-9_纪录
-url
-#EXTINF:-1 tvg-name="CCTV10_科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10_科教.png" group-title="🈳无结果频道",CCTV-10_科教
-url
-#EXTINF:-1 tvg-name="CCTV11_戏曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11_戏曲.png" group-title="🈳无结果频道",CCTV-11_戏曲
-url
-#EXTINF:-1 tvg-name="CCTV12_社会与法" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12_社会与法.png" group-title="🈳无结果频道",CCTV-12_社会与法
-url
-#EXTINF:-1 tvg-name="CCTV13_新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13_新闻.png" group-title="🈳无结果频道",CCTV-13_新闻
-url
-#EXTINF:-1 tvg-name="CCTV14_少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14_少儿.png" group-title="🈳无结果频道",CCTV-14_少儿
-url
-#EXTINF:-1 tvg-name="CCTV15_音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15_音乐.png" group-title="🈳无结果频道",CCTV-15_音乐
-url
-#EXTINF:-1 tvg-name="CCTV16_奥林匹克" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16_奥林匹克.png" group-title="🈳无结果频道",CCTV-16_奥林匹克
-url
-#EXTINF:-1 tvg-name="CCTV17_农业农村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17_农业农村.png" group-title="🈳无结果频道",CCTV-17_农业农村
-url
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🈳无结果频道",CCTV-5+HD
-url
-#EXTINF:-1 tvg-name="CCTV15HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15HD.png" group-title="🈳无结果频道",CCTV-15HD
-url
-#EXTINF:-1 tvg-name="CCTV16HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16HD.png" group-title="🈳无结果频道",CCTV-16HD
-url
-#EXTINF:-1 tvg-name="CCTV17HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17HD.png" group-title="🈳无结果频道",CCTV-17HD
-url
-#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="🈳无结果频道",CCTV-1 综合
-url
-#EXTINF:-1 tvg-name="CCTV2 财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2 财经.png" group-title="🈳无结果频道",CCTV-2 财经
-url
-#EXTINF:-1 tvg-name="CCTV3 综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3 综艺.png" group-title="🈳无结果频道",CCTV-3 综艺
-url
-#EXTINF:-1 tvg-name="CCTV4 中文国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4 中文国际.png" group-title="🈳无结果频道",CCTV-4 中文国际
-url
-#EXTINF:-1 tvg-name="CCTV5 体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5 体育.png" group-title="🈳无结果频道",CCTV-5 体育
-url
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🈳无结果频道",CCTV-5+ 体育赛事
-url
-#EXTINF:-1 tvg-name="CCTV6 电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6 电影.png" group-title="🈳无结果频道",CCTV-6 电影
-url
-#EXTINF:-1 tvg-name="CCTV7 国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7 国防军事.png" group-title="🈳无结果频道",CCTV-7 国防军事
-url
-#EXTINF:-1 tvg-name="CCTV8 电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8 电视剧.png" group-title="🈳无结果频道",CCTV-8 电视剧
-url
-#EXTINF:-1 tvg-name="CCTV9 纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9 纪录.png" group-title="🈳无结果频道",CCTV-9 纪录
-url
-#EXTINF:-1 tvg-name="CCTV10 科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10 科教.png" group-title="🈳无结果频道",CCTV-10 科教
-url
-#EXTINF:-1 tvg-name="CCTV11 戏曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11 戏曲.png" group-title="🈳无结果频道",CCTV-11 戏曲
-url
-#EXTINF:-1 tvg-name="CCTV12 社会与法" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12 社会与法.png" group-title="🈳无结果频道",CCTV-12 社会与法
-url
-#EXTINF:-1 tvg-name="CCTV13 新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13 新闻.png" group-title="🈳无结果频道",CCTV-13 新闻
-url
-#EXTINF:-1 tvg-name="CCTV14 少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14 少儿.png" group-title="🈳无结果频道",CCTV-14 少儿
 url
 #EXTINF:-1 tvg-name="CCTV15 音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15 音乐.png" group-title="🈳无结果频道",CCTV-15 音乐
 url
@@ -169,40 +39,6 @@ url
 url
 #EXTINF:-1 tvg-name="CCTV4K 超高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K 超高清.png" group-title="🈳无结果频道",CCTV-4K 超高清
 url
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🈳无结果频道",CCTV-5+
-url
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🈳无结果频道",CCTV-15
-url
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="🈳无结果频道",CCTV-16
-url
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🈳无结果频道",CCTV-17
-url
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🈳无结果频道",CCTV5+
-url
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🈳无结果频道",CCTV15
-url
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="🈳无结果频道",CCTV16
-url
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🈳无结果频道",CCTV17
-url
-#EXTINF:-1 tvg-name="CCTV01" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV01.png" group-title="🈳无结果频道",CCTV01
-url
-#EXTINF:-1 tvg-name="CCTV02" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV02.png" group-title="🈳无结果频道",CCTV02
-url
-#EXTINF:-1 tvg-name="CCTV03" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV03.png" group-title="🈳无结果频道",CCTV03
-url
-#EXTINF:-1 tvg-name="CCTV04" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV04.png" group-title="🈳无结果频道",CCTV04
-url
-#EXTINF:-1 tvg-name="CCTV05" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV05.png" group-title="🈳无结果频道",CCTV05
-url
-#EXTINF:-1 tvg-name="CCTV06" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV06.png" group-title="🈳无结果频道",CCTV06
-url
-#EXTINF:-1 tvg-name="CCTV07" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV07.png" group-title="🈳无结果频道",CCTV07
-url
-#EXTINF:-1 tvg-name="CCTV08" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV08.png" group-title="🈳无结果频道",CCTV08
-url
-#EXTINF:-1 tvg-name="CCTV09" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV09.png" group-title="🈳无结果频道",CCTV09
-url
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🈳无结果频道",CHC动作电影
 url
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🈳无结果频道",CHC家庭影院
@@ -210,36 +46,6 @@ url
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="🈳无结果频道",CHC影迷电影
 url
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🈳无结果频道",CHC高清电影
-url
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="🈳无结果频道",CETV-1
-url
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="🈳无结果频道",CETV-2
-url
-#EXTINF:-1 tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV3.png" group-title="🈳无结果频道",CETV-3
-url
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="🈳无结果频道",CETV-4
-url
-#EXTINF:-1 tvg-name="CETV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV5.png" group-title="🈳无结果频道",CETV-5
-url
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="🈳无结果频道",CETV1
-url
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="🈳无结果频道",CETV2
-url
-#EXTINF:-1 tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV3.png" group-title="🈳无结果频道",CETV3
-url
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="🈳无结果频道",CETV4
-url
-#EXTINF:-1 tvg-name="CETV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV5.png" group-title="🈳无结果频道",CETV5
-url
-#EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中国教育1.png" group-title="🈳无结果频道",中国教育1
-url
-#EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中国教育2.png" group-title="🈳无结果频道",中国教育2
-url
-#EXTINF:-1 tvg-name="中国教育3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中国教育3.png" group-title="🈳无结果频道",中国教育3
-url
-#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中国教育4.png" group-title="🈳无结果频道",中国教育4
-url
-#EXTINF:-1 tvg-name="中国教育5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中国教育5.png" group-title="🈳无结果频道",中国教育5
 url
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中国教育1台.png" group-title="🈳无结果频道",中国教育1台
 url
@@ -3685,5 +3491,5 @@ url
 url
 #EXTINF:-1 tvg-name="七台河民生社教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七台河民生社教.png" group-title="🈳无结果频道",七台河民生社教
 url
-#EXTINF:-1 tvg-name="港台电视33" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/港台电视33.png" group-title="🕘️更新时间",2025-04-22 07:41:28
+#EXTINF:-1 tvg-name="CCTV1香港版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1香港版.png" group-title="🕘️更新时间",2025-04-22 10:30:29
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
