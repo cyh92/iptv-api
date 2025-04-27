@@ -40,13 +40,13 @@ CCTV15,http://112.123.206.32:808/hls/16/index.m3u8
 安徽卫视,http://42.227.88.121:4022/rtp/225.1.4.87:1116
 北京卫视,http://219.154.185.68:4022/rtp/225.1.4.81:1110
 北京卫视,http://42.227.88.121:4022/rtp/225.1.4.81:1110
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745701209&sign=4f8233aa0c3011c28930c2b19ddc84d5
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745744675&sign=8c9c1ed17e247c660130fe8bd8b64ac9
 兵团卫视,http://219.154.185.68:4022/rtp/225.1.4.97:1126
 兵团卫视,http://42.227.88.121:4022/rtp/225.1.4.97:1126
 东方卫视,http://219.154.185.68:4022/rtp/225.1.4.85:1114
 东方卫视,http://42.227.88.121:4022/rtp/225.1.4.85:1114
-海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 海南卫视,https://livelyws.chinamcache.com/lyws/newzb02.m3u8?auth_key=1726280384-0-0-2d49871fcd872001aea079c68303991c
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 河南卫视,http://219.154.185.68:4022/rtp/225.1.4.98:1127
 河南卫视,http://42.227.88.121:4022/rtp/225.1.4.98:1127
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
@@ -102,7 +102,7 @@ CCTV15,http://112.123.206.32:808/hls/16/index.m3u8
 安徽卫视HD,http://42.227.88.121:4022/rtp/225.1.4.87:1116
 北京卫视HD,http://219.154.185.68:4022/rtp/225.1.4.81:1110
 北京卫视HD,http://42.227.88.121:4022/rtp/225.1.4.81:1110
-北京卫视HD,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745701209&sign=4f8233aa0c3011c28930c2b19ddc84d5
+北京卫视HD,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745744675&sign=8c9c1ed17e247c660130fe8bd8b64ac9
 北京卫视4k,http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
 兵团卫视HD,http://219.154.185.68:4022/rtp/225.1.4.97:1126
 兵团卫视HD,http://42.227.88.121:4022/rtp/225.1.4.97:1126
@@ -290,8 +290,8 @@ RTHK-35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stre
 ☘️广东频道,#genre#
 广东新闻,http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
-广东体育,http://api3.52tb.xyz/info?id=413&token=20221127jxwhhemby
 广东体育,http://api2.52tb.xyz/info?id=413&token=20230218qkyjia#http://api2.52tb.xyz/info?id=414&token=20230218qkyjia#http://api3.52tb.xyz/info?id=413&token=20221127jxwhhemby#http://api2.52tb.xyz/info?id=414&token=20230218jsyklh
+广东体育,http://api3.52tb.xyz/info?id=413&token=20221127jxwhhemby
 嘉佳卡通,http://219.154.185.68:4022/rtp/225.1.4.92:1121
 嘉佳卡通,http://42.227.88.121:4022/rtp/225.1.4.92:1121
 广州综合,http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouZongHe
@@ -300,13 +300,13 @@ RTHK-35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stre
 
 ☘️浙江频道,#genre#
 「浙江」数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8\r\n
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?fbl=
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 浙江钱江都市,http://api3.52tb.xyz/info?id=436&token=20230226bgyszp
-浙江钱江台,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江钱江台,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
+浙江钱江台,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8\r\n
+浙江钱江台,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?fbl=
 浙江生活,https://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
 浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -357,21 +357,22 @@ RTHK-35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stre
 ☘️北京频道,#genre#
 北京卡酷少儿,http://219.154.185.68:4022/rtp/225.1.4.48:1077
 北京卡酷少儿,http://42.227.88.121:4022/rtp/225.1.4.48:1077
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1745701211&sign=373ff6b72ba9ee93966deb4d20a3544a
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1745744679&sign=240d5463f2bdb1d6e0ca5101acb8c4c7
 北京新闻,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=btv9&videoTVChannel=btv9&P2PChannelID=pd://cctv_p2p_hdbtv9&tai=btv9&VideoName=btv9&channelID=btv9
 北京新闻,http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1745701210&sign=3ada570941e3c965d26a27d8d38edcfd
+北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1745744679&sign=1b0a74e9fe31f3a2bd9be826c5d5d1ad
 北京生活,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=btv7&videoTVChannel=btv7&P2PChannelID=pd://cctv_p2p_hdbtv7&tai=btv7&VideoName=btv7&channelID=btv7
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1745701210&sign=c07b6980d6f2c4385d7d1d501868301c
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1745744678&sign=c85f31919afaef84f522d8270453780f
 北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
 北京财经,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=btv5&videoTVChannel=btv5&P2PChannelID=pd://cctv_p2p_hdbtv5&tai=btv5&VideoName=btv5&channelID=btv5
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1745701210&sign=58c71d2c110e2fc047af94ceed206161
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1745744678&sign=5f1064d7f5ddd40f21836fe65680e5d3
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 通州电视台,http://pull.dayuntongzhou.com/live/tztv.m3u8
 
 ☘️上海频道,#genre#
-上海新闻综合,http://api3.52tb.xyz/info?id=371&token=20221127jxwhhemby
 上海新闻综合,http://api2.52tb.xyz/info?id=371&token=20230218qkyjia
+上海新闻综合,http://api3.52tb.xyz/info?id=371&token=20221127jxwhhemby
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 上海都市,http://api3.52tb.xyz/info?id=372&token=20221127jxwhhemby
 东方财经,http://61.133.118.228:5001/douyu/9548279
@@ -437,9 +438,13 @@ RTHK-35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stre
 江宁新闻,http://api3.52tb.xyz/info?id=455&token=20221127jxwhhemby
 江宁新闻,rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh
 江苏体育,http://api3.52tb.xyz/info?id=455&token=20221127jxwhhemby
+沭阳综合,http://711285539.cloudvdn.com/a.m3u8?domain=shuyang-tv-hls.cm.jstv.com&player=B68AAKs_iZvX9cgX&secondToken=secondToken%3AhAT0eYR-yTnf6pSUE8f9Fy2_B8A&streamid=shuyang-tv%3Ashuyang-tv%2Fshuyangzh&v3=1&zjiangsd=
+泗洪新闻综合,http://711285539.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=B68AAK0g1Rzt9cgX&secondToken=secondToken%3A1l_X-TNjS9Ds07H8Au0FK_99458&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1&zjiangsd=
 泗洪新闻综合,http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nwEAAKHdjSKP_58X&secondToken=secondToken%3A5FUijZmDyNMxtCDdne0YzSAwjuw&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1
 泗洪新闻综合,rtmp://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe
+泗阳综合,http://711285539.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=B68AAK0g1Rzt9cgX&secondToken=secondToken%3A1l_X-TNjS9Ds07H8Au0FK_99458&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1&zjiangsd=
 泗阳综合,http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nwEAAKHdjSKP_58X&secondToken=secondToken%3A5FUijZmDyNMxtCDdne0YzSAwjuw&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1
+泗阳资讯,http://711285539.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=B68AAKK9Hjrw9cgX&secondToken=secondToken%3AIAfs4Dn9UNR5w9UDmqnFmOCSOfM&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzx&v3=1&zjiangsd=
 涟水电视台综合,rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
 涟水综合,rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
 溧水新闻综合,http://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
@@ -497,13 +502,13 @@ RTHK-35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stre
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 
 ☘️广西频道,#genre#
-南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
 南宁公共,https://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
 南宁公共,rtmp://live.gxrb.com.cn/tv/nntv_gg
 南宁影娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8?zguangxd
 南宁新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
-南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 南宁新闻综合,https://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 南宁新闻综合,rtmp://hls.nntv.cn/nnlive/XWZH_24
 南宁新闻综合,rtmp://live.gxrb.com.cn/tv/nntv
 南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8?zguangxd
@@ -518,6 +523,7 @@ RTHK-35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stre
 ☘️天津频道,#genre#
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1
+武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️四川频道,#genre#
 乐山新闻综合,http://pwpull.leshan.cn:80/live/21609091019110008654ed1a00000000/playlist.m3u8
@@ -527,6 +533,7 @@ RTHK-35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stre
 凉山语,rtmp://tv.drs.i0834.cn/channellive/ch2?zsicd
 凉山语,rtmp://tv.drs.yizu.tv/channellive/ch2?zsicd
 叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
+叙州新闻综合,http://2061827161.cloudvdn.com/a.m3u8?domain=pili-live-hls.ybcxjd.com&player=IjsAAN-1KyqjjPYX&secondToken=secondToken%3AMHl3QtaAs-H2KkHpuGUAlKuJ9a8&streamid=jdh-live%3Ajdh-live%2F2108111201035597&v3=1
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan
 夹江新闻综合,rtmp://tv.jjrm.org.cn/channellive/ch1?zsicd
 宝兴综合,rtmp://tv.yunxya.com:1937/channellive/baoxing
@@ -543,8 +550,8 @@ RTHK-35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stre
 金川新闻综合,rtmp://live.jinchuanrmt.com/live/zhxw
 金川新闻综合,rtmp://139.203.180.9/live/zhxw
 长宁综合,rtmp://cnpull.sccnfb.com/live/123456
-马尔康综合,https://live-pull.newslqy.com/live/fmzb1682404988829.m3u8
 马尔康综合,http://live-pull.newslqy.com/live/fmzb1682404988829.m3u8
+马尔康综合,https://live-pull.newslqy.com/live/fmzb1682404988829.m3u8
 马尔康综合,rtmp://live.zmmek.com/live/zhxw
 龙泉驿新闻综合,http://live-pull.newslqy.com/live/fmzb1682404988829.m3u8
 
@@ -702,7 +709,6 @@ RTHK-35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stre
 长子综合,rtmp://zzlive.zzc-media.com/live/xwzh
 
 ☘️安徽频道,#genre#
-安徽国际,http://api2.52tb.xyz/info?id=586&token=20230405tndmhg
 安徽影视,http://api2.52tb.xyz/info?id=584&token=20230218jsyklh
 合肥新闻,http://api2.52tb.xyz/info?id=587&token=20230405tndmhg
 铜陵新闻综合,https://gnhls.qingmei.tv/live/tlxw.m3u8?volcTime=1753081509&volcSecret=10999ac48fb965e95cd8ac9bbbf625ef
@@ -723,15 +729,15 @@ RTHK-35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stre
 吉林乡村,https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
 
 ☘️内蒙古频道,#genre#
-蒙语文化,http://api3.52tb.xyz/info?id=782&token=20221127jxwhhemby
 蒙语文化,http://api2.52tb.xyz/info?id=782&token=20230218qkyjia
+蒙语文化,http://api3.52tb.xyz/info?id=782&token=20221127jxwhhemby
 内蒙经济,https://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
 内蒙少儿,http://api2.52tb.xyz/info?id=784&token=20230218qkyjia
 内蒙农牧,http://api2.52tb.xyz/info?id=886&token=20230218qkyjia
 内蒙古少儿,http://api2.52tb.xyz/info?id=784&token=20230218qkyjia
 内蒙古农牧,http://api2.52tb.xyz/info?id=886&token=20230218qkyjia
-内蒙古蒙语文化,http://api3.52tb.xyz/info?id=782&token=20221127jxwhhemby
 内蒙古蒙语文化,http://api2.52tb.xyz/info?id=782&token=20230218qkyjia
+内蒙古蒙语文化,http://api3.52tb.xyz/info?id=782&token=20221127jxwhhemby
 
 ☘️云南频道,#genre#
 屏边综合,http://live.ynurl.com/video/s10040-pbzh/index.m3u8?zyund
@@ -1385,8 +1391,6 @@ BTV纪实,url
 江苏影视,url
 江苏教育,url
 沛县新闻综合,url
-沭阳综合,url
-泗阳资讯,url
 泰州一套新闻综合,url
 泰州三套影视娱乐,url
 海安新闻综合,url
@@ -1531,7 +1535,6 @@ BTV纪实,url
 滨海新闻,url
 滨海综艺,url
 滨海影院,url
-武清综合,url
 天津都市,url
 天津新闻,url
 天津文艺,url
@@ -1952,6 +1955,7 @@ BTV纪实,url
 高平综合,url
 黄河电视台,url
 黎城综合,url
+安徽国际,url
 安徽经济生活,url
 安徽综艺体育,url
 安徽导视,url
@@ -2154,4 +2158,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2025-04-27 06:16:35,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
+2025-04-27 18:18:06,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
