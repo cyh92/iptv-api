@@ -94,7 +94,6 @@ TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,https://live.tvfix.org/live/tvbplus/index.m3u8
 娛樂新聞台(HK),https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
 美亞電影台(HK),https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
-龍華電影台,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
@@ -114,7 +113,6 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 无线新闻频道,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
 天映经典频道,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
 tvbs新闻频道,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
-龙华电影频道,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 香港卫视频道,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视频道,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 无线星河频道,http://php.jdshipin.com/smt.php?id=Xinhe
@@ -122,7 +120,6 @@ tvbs新闻频道,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 
 ☘️广东频道,#genre#
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
 广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
@@ -140,8 +137,8 @@ tvbs新闻频道,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 
 ☘️浙江频道,#genre#
 浙江生活,http://ls.qingting.fm/live/1099.m3u8
-浙江经济生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8
+浙江经济生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 浙江教育,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
 浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
@@ -152,15 +149,16 @@ tvbs新闻频道,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 杭州少体,http://goo.bkpcp.top/mg/hzse
 之江纪录,http://goo.bkpcp.top/mg/zjjl
 浙江国际,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8?a=1000&d=4e3d476240659192311f471b7b63aec2&k=d26568bae9dd23dd781c769c148459b2&t=1683180450
+嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 浙江留学,http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
 浙江民生休闲,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
 嵊泗综合,http://goo.bkpcp.top/mg/ssxwzh
 
 ☘️北京频道,#genre#
 北京新闻,https://ls.qingting.fm/live/339/64k.m3u8
+北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 北京新闻,http://yc.myds.me:35455/bptv/10000100000000050000000003870780.m3u8
 北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
-北京新闻,http://dsj.motem.top:8880/bptv/10000100000000050000000003870780.m3u8
 
 ☘️上海频道,#genre#
 七彩戏剧,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000011000031116
@@ -172,6 +170,7 @@ tvbs新闻频道,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 东方影视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
 东方影视,http://z.b.bkpcp.top/m.php?id=shys
 东方影视,http://gat.bkpcp.top/ymg.php?id=shys
+东方财经,http://yc.myds.me:35455/itv/5000000007000010003.m3u8?cdn=bestzb
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 哈哈炫动,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
 欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc
@@ -227,7 +226,6 @@ tvbs新闻频道,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 湖南娱乐,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnyl
 湖南国际,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
 金鹰纪实,http://yc.myds.me:35455/itv/5000000011000031203.m3u8?cdn=bestzb
-金鹰卡通,http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8
 长沙新闻,http://ls.qingting.fm/live/4877.m3u8
 
 ☘️湖北频道,#genre#
@@ -236,6 +234,7 @@ tvbs新闻频道,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 
 ☘️广西频道,#genre#
+北海经济科教,https://play-a2.quklive.com:443/live/1727311690820146.m3u8
 南宁公共,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d1391be1fc200f8e4700c5d82b44edae
 南宁新闻综合,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d1391be1fc200f8e4700c5d82b44edae
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
@@ -273,6 +272,9 @@ tvbs新闻频道,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
+福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
+福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 
 ☘️海南频道,#genre#
 海南新闻,http://ls.qingting.fm/live/1861.m3u8
@@ -315,7 +317,6 @@ tvbs新闻频道,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 山东生活,http://ls.qingting.fm/live/60260.m3u8
 
 ☘️山西频道,#genre#
-原平综合,http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8
 古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
 平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
@@ -564,6 +565,7 @@ tvN,url
 黃金翡翠台,url
 龍華日韓台,url
 龍華經典台,url
+龍華電影台,url
 NHK World-Japan,url
 NHK東京総合,url
 亞洲新聞台,url
@@ -687,6 +689,7 @@ tvbs闽南频道,url
 龙华戏剧频道,url
 龙华洋片频道,url
 龙华偶像频道,url
+龙华电影频道,url
 华纳电影频道,url
 唐人亚太频道,url
 亚洲旅游频道,url
@@ -896,7 +899,6 @@ NBTV-3,url
 NBTV-4,url
 浙江教科,url
 浙江经济,url
-嘉兴新闻综合,url
 嘉兴公共,url
 嘉兴文化影视,url
 丽水公共,url
@@ -1011,7 +1013,6 @@ BTV纪实,url
 上海金山电视台,url
 上视外语,url
 上视新闻,url
-东方财经,url
 全纪实,url
 嘉定电视台,url
 天水公共,url
@@ -1137,6 +1138,7 @@ BTV纪实,url
 湖南视剧,url
 湖南教育,url
 湖南公共,url
+金鹰卡通,url
 长沙政法,url
 长沙影视,url
 长沙女性,url
@@ -1209,7 +1211,6 @@ BTV纪实,url
 凌云综合,url
 凭祥综合,url
 北海新闻综合,url
-北海经济科教,url
 南宁影娱乐,url
 博白综合,url
 天等综合,url
@@ -1369,10 +1370,7 @@ BTV纪实,url
 漳州新闻综合,url
 漳浦综合,url
 石狮综合,url
-福州少儿,url
 福州影院,url
-福州生活,url
-福州综合,url
 霞浦综合,url
 龙岩公共,url
 龙岩新闻综合,url
@@ -1658,6 +1656,7 @@ BTV纪实,url
 万荣综合,url
 五台综合,url
 优购物电视购物,url
+原平综合,url
 吉县新闻综合,url
 大同1套新闻综合,url
 大同2套公共,url
@@ -1906,4 +1905,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2025-07-09 18:22:14,https://live.tvfix.org/live/cctv1hd/index.m3u8
+2025-07-10 06:19:13,https://live.tvfix.org/live/cctv1hd/index.m3u8
