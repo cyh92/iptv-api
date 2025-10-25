@@ -65,3 +65,19 @@ jobs:
             git commit -m "Github Action Auto Updated"
             git push --force
           fi
+      - name: 上传到FTP 
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER  }}
+          username: ${{ secrets.FTP_USERNAME  }}
+          password: ${{ secrets.FTP_PASSWORD  }}
+          local-dir: ./output/
+          server-dir: /htdocs/
+          exclude: |
+            **/data/**
+            **/ipv4/**
+            **/ipv6/**
+            **/log/**
+            result.m3u
+            result.txt
+            sort.log
