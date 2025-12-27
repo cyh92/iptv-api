@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251227103303 +0800">
+<tv date="20251227125925 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2879,9 +2879,6 @@
 	</programme>
 	<programme channel="东方卫视" start="20251227120000 +0800" stop="20251227122800 +0800">
 		<title lang="zh">中国考古报道（91）</title>
-	</programme>
-	<programme channel="东方卫视" start="20251227122800 +0800" stop="20251227130900 +0800">
-		<title lang="zh">双城记825视界开麦啦　舌尖炫魔都</title>
 	</programme>
 	<programme channel="东方卫视" start="20251227130900 +0800" stop="20251227135200 +0800">
 		<title lang="zh">电视连续剧：《都挺好》（12）</title>
@@ -9015,6 +9012,33 @@
 	<programme channel="广东卫视" start="20251227234000 +0800" stop="20251227235900 +0800">
 		<title lang="zh">黄金皮的故事</title>
 	</programme>
+	<channel id="广东少儿">
+		<display-name lang="zh">广东少儿</display-name>
+	</channel>
+	<programme channel="广东少儿" start="20251227000000 +0800" stop="20251227005000 +0800">
+		<title lang="zh">午夜剧场</title>
+	</programme>
+	<programme channel="广东少儿" start="20251227060000 +0800" stop="20251227080000 +0800">
+		<title lang="zh">早间卡通剧场《百变校巴》</title>
+	</programme>
+	<programme channel="广东少儿" start="20251227080000 +0800" stop="20251227163000 +0800">
+		<title lang="zh">《熊出没》</title>
+	</programme>
+	<programme channel="广东少儿" start="20251227163000 +0800" stop="20251227183000 +0800">
+		<title lang="zh">《奶龙》</title>
+	</programme>
+	<programme channel="广东少儿" start="20251227183000 +0800" stop="20251227190000 +0800">
+		<title lang="zh">《猪猪侠之功夫小英雄》</title>
+	</programme>
+	<programme channel="广东少儿" start="20251227190000 +0800" stop="20251227203000 +0800">
+		<title lang="zh">《羊村守护者》</title>
+	</programme>
+	<programme channel="广东少儿" start="20251227203000 +0800" stop="20251227203500 +0800">
+		<title lang="zh">《研学大湾区》</title>
+	</programme>
+	<programme channel="广东少儿" start="20251227203500 +0800" stop="20251227235900 +0800">
+		<title lang="zh">《羊村守护者》</title>
+	</programme>
 	<channel id="广东影视">
 		<display-name lang="zh">广东影视</display-name>
 	</channel>
@@ -10470,22 +10494,22 @@
 	<programme channel="新疆卫视" start="20251227083200 +0800" stop="20251227084400 +0800">
 		<title lang="zh">今日聚焦</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251227084400 +0800" stop="20251227091600 +0800">
+	<programme channel="新疆卫视" start="20251227084400 +0800" stop="20251227092000 +0800">
 		<title lang="zh">真实纪录</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251227091600 +0800" stop="20251227101500 +0800">
+	<programme channel="新疆卫视" start="20251227092000 +0800" stop="20251227101500 +0800">
 		<title lang="zh">我是刑警(1)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251227101500 +0800" stop="20251227111900 +0800">
+	<programme channel="新疆卫视" start="20251227101500 +0800" stop="20251227112600 +0800">
 		<title lang="zh">我是刑警(2)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251227111900 +0800" stop="20251227122300 +0800">
+	<programme channel="新疆卫视" start="20251227112600 +0800" stop="20251227122500 +0800">
 		<title lang="zh">我是刑警(3)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251227122300 +0800" stop="20251227132800 +0800">
+	<programme channel="新疆卫视" start="20251227122500 +0800" stop="20251227133000 +0800">
 		<title lang="zh">我是刑警(4)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251227132800 +0800" stop="20251227140000 +0800">
+	<programme channel="新疆卫视" start="20251227133000 +0800" stop="20251227140000 +0800">
 		<title lang="zh">健康公开课</title>
 	</programme>
 	<programme channel="新疆卫视" start="20251227140000 +0800" stop="20251227142200 +0800">
@@ -10500,14 +10524,8 @@
 	<programme channel="新疆卫视" start="20251227163000 +0800" stop="20251227173500 +0800">
 		<title lang="zh">伪装者(35)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251227173500 +0800" stop="20251227180200 +0800">
+	<programme channel="新疆卫视" start="20251227173500 +0800" stop="20251227183800 +0800">
 		<title lang="zh">真实纪录</title>
-	</programme>
-	<programme channel="新疆卫视" start="20251227180200 +0800" stop="20251227180900 +0800">
-		<title lang="zh">国宝时刻</title>
-	</programme>
-	<programme channel="新疆卫视" start="20251227180900 +0800" stop="20251227183800 +0800">
-		<title lang="zh">动画片</title>
 	</programme>
 	<programme channel="新疆卫视" start="20251227183800 +0800" stop="20251227190000 +0800">
 		<title lang="zh">新疆味道</title>
