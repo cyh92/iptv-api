@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260106130511 +0800">
+<tv date="20260106143636 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -26205,4 +26205,10 @@
 	<programme channel="龙岩综合" start="20260106231500 +0800" stop="20260106235900 +0800">
 		<title lang="zh">午夜影剧院</title>
 	</programme>
+	<channel id="凤凰香港">
+		<display-name lang="zh">凤凰香港</display-name>
+	</channel>
+	<channel id="CHC影迷电影">
+		<display-name lang="zh">CHC影迷电影</display-name>
+	</channel>
 </tv>
