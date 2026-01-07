@@ -75,6 +75,7 @@ jobs:
           server-dir: /htdocs/
           exclude: |
             **/data/**
+            **/epg/**
             **/ipv4/**
             **/ipv6/**
             **/log/**
