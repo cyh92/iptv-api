@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/cyh92/iptv-api/refs/heads/master/output/epg/epg.gz"
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/贵州卫视.png" group-title="📡卫视频道",贵州卫视
-https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=05dd915e22de6b82f2ab0dec0bba3482&txTime=6A57B7EE
+https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=d995c845fc53f59c83e444503eaead34&txTime=6A57CF63
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/海南卫视.png" group-title="📡卫视频道",海南卫视
 https://livelyws1.chinamcache.com/lyws/newlive_zb03.m3u8?auth_key=1767148001-0-0-0650c6542c331540df214a79a09a2356
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/吉林卫视.png" group-title="📡卫视频道",吉林卫视
-https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=8372bfbfa920f30272c3f6734934f5bc&txTime=6A57F294
+https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=51e27a93eb71b4a54ce430e7f901b780&txTime=6A580C55
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/3621481general.m3u8?txSecret=a0b8cc66a1124cf66791a507195b9093&txTime=6D58FFD0&token=48b7bc642c1a4ff69f882b614ebb0846
+https://livestream-bt.nmtv.cn/nmtv/3621481general.m3u8?txSecret=a0b8cc66a1124cf66791a507195b9093&txTime=6D58FFD0&token=c75e33d3986541cca8508e6b15ac13ba
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/山西卫视.png" group-title="📡卫视频道",山西卫视
 https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/53sqgR0.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/陕西卫视.png" group-title="📡卫视频道",陕西卫视
@@ -304,7 +304,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/浙江国际.png" group-title="☘️浙江频道",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/浙江国际.png" group-title="☘️浙江频道",浙江国际
-http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/浙江国际.png" group-title="☘️浙江频道",浙江国际
 http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8
 #EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/浙江经视.png" group-title="☘️浙江频道",浙江经视
@@ -467,6 +467,8 @@ http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&acce
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=31608RMZHGPUCXX10&programid=4200000068
 #EXTINF:-1 tvg-name="江夏新闻综合" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/江夏新闻综合.png" group-title="☘️湖北频道",江夏新闻综合
 http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
+#EXTINF:-1 tvg-name="南宁公共" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/南宁公共.png" group-title="☘️广西频道",南宁公共
+https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 #EXTINF:-1 tvg-name="宾阳综合" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/宾阳综合.png" group-title="☘️广西频道",宾阳综合
 rtmp://live.gxrb.com.cn/gx/binyang
 #EXTINF:-1 tvg-name="巴马综合" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/巴马综合.png" group-title="☘️广西频道",巴马综合
@@ -503,5 +505,5 @@ https://play.kankanlive.com/live/1683944827526991.m3u8
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
 #EXTINF:-1 tvg-name="吉林乡村" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/吉林乡村.png" group-title="☘️吉林频道",吉林乡村
 https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/CCTV1.png" group-title="🕘️更新时间",2026-07-16 01:34:19
-https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=05dd915e22de6b82f2ab0dec0bba3482&txTime=6A57B7EE
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/CCTV1.png" group-title="🕘️更新时间",2026-07-16 03:33:11
+https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=d995c845fc53f59c83e444503eaead34&txTime=6A57CF63
