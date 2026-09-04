@@ -18,11 +18,13 @@ https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/CCTV5.png" group-title="📺央视频道",CCTV-5
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?msisdn=fb6d9401600548088b767c8de92ba9bc&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260903221133&Channel_ID=0116_2600034600-99000-201600010044473&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=36.137.241.50&SecurityKey=20260903221133&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=622c83635a06251255b6cbc37ea8eafd&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=10ee313323f2ed534e283b406951b1e3
+http://mgsp-cty2.live.miguvideo.com:8088/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?msisdn=c03a857ad9c2758838444b2bc344829d&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&Channel_ID=0116_2600034600-99000-201600010069496&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=36.133.49.112&SecurityKey=20260904061508&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=bd69a8e5653d22139be8d14bd592167d&sv=10004&ct=android&timestamp=20260904061508&encrypt=f8097ece4195cb91e65b7e6c417ed0a1&HlsSubType=1&HlsProfileId=1&nphaid=0
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/CCTV5+.png" group-title="📺央视频道",CCTV-5+
+http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?msisdn=c03a857ad9c2758838444b2bc344829d&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260904061422&Channel_ID=0116_2600034600-99000-201600010001848&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=36.134.130.193&SecurityKey=20260904061422&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=575fab9bba38f6abdac82d92dd1bf729&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d38fa66554473724c52f5c56218d228f
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/CCTV6.png" group-title="📺央视频道",CCTV-6
 https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/CCTV6.png" group-title="📺央视频道",CCTV-6
@@ -449,5 +451,5 @@ https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 https://ls.qingting.fm/live/4972/64k.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/黑龙江新闻.png" group-title="☘️黑龙江频道",黑龙江新闻
 https://ls.qingting.fm/live/4974/64k.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/CCTV1.png" group-title="🕘️更新时间",2026-09-04 07:59:50
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/CCTV1.png" group-title="🕘️更新时间",2026-09-04 12:21:37
 https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
