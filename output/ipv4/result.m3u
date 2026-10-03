@@ -223,8 +223,6 @@ rtmp://f13h.mine.nu/sat/tv051
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-name="台视闽南频道" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/台视闽南频道.png" group-title="港闽频道",台视闽南频道
 rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 tvg-name="香港卫视频道" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/香港卫视频道.png" group-title="港闽频道",香港卫视频道
-http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="中天新闻频道" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/中天新闻频道.png" group-title="港闽频道",中天新闻频道
 http://122.117.71.103:8540/中天新闻.m3u8
 #EXTINF:-1 tvg-name="中天新闻频道" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/中天新闻频道.png" group-title="港闽频道",中天新闻频道
@@ -391,5 +389,5 @@ http://play.kankanlive.com/live/1720408089419110.m3u8
 https://play.kankanlive.com/live/1683944827526991.m3u8
 #EXTINF:-1 tvg-name="吉林乡村" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/吉林乡村.png" group-title="☘️吉林频道",吉林乡村
 https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/CCTV1.png" group-title="🕘️更新时间",2026-10-03 13:09:50
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/CCTV1.png" group-title="🕘️更新时间",2026-10-03 19:34:57
 http://play.kankanlive.com/live/1698234869325962.m3u8
